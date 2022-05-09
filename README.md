@@ -1,2 +1,1 @@
-# TinDog-RJE
- Landsite developed with Bootstrap 5
+TinDog Starting Files
